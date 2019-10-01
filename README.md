@@ -1,6 +1,6 @@
 # jettyWithSpringBoot
 
-This project demonstrates how to get started with using SSL on a Embedded Jetty Server in Spring Boot.
+This project demonstrates how to get started with using SSL on a Embedded Jetty Server in Spring Boot and to perform HTTP/2 Request.
 
 Initially, you will need to get rid of using Tomcat from `started-web`. And include `jetty` in `build.gradle`.
 

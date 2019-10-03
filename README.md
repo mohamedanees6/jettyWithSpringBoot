@@ -1,4 +1,4 @@
-# jettyWithSpringBoot
+# JettyWithSpringBoot
 
 This project demonstrates how to get started with using SSL on a Embedded Jetty Server in Spring Boot and to perform HTTP/2 Request.
 

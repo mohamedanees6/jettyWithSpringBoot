@@ -19,8 +19,9 @@ configurations {
 dependencies {
 	implementation 'org.springframework.boot:spring-boot-starter-web'
     implementation 'org.springframework.boot:spring-boot-starter-jetty'
-    implementation'org.eclipse.jetty:jetty-alpn-conscrypt-server'
+    implementation 'org.eclipse.jetty:jetty-alpn-conscrypt-server'
     implementation 'org.eclipse.jetty.http2:http2-server'
+    implementation 'org.conscrypt:conscrypt-openjdk-uber'
 	testImplementation 'org.springframework.boot:spring-boot-starter-test'
 	
 }
